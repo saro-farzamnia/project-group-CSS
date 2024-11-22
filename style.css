@@ -1,0 +1,256 @@
+*{
+    overflow-x: clip;
+}
+.text{
+    margin-left: 78%;
+    text-align: right;
+    font-size: large;
+}
+.title{
+    position: relative;
+}
+.header{
+    position: absolute;
+    margin-top: 0%;
+    margin-right: 11%;
+}
+.patent{
+    position: relative;
+}
+table{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40%;
+}
+.garanti{
+    padding-left: 35%;
+}
+.support{
+    padding-left: 15%;
+}
+.smartPath{
+    padding-left: 50%;
+}
+.security{
+    padding-left: 40%;
+}
+.imgGaranti, .imgsmartPath, .imgSupport, .imgSecurity{
+    height: 60px;
+    width: 60px;
+    padding-left: 50%;
+}
+.imgGaranti{
+    position:absolute;
+    margin-right: 35%;
+    margin-top: 0%;
+}
+.imgsmartPath{
+    position: absolute;
+    margin-right: 60%;
+    margin-top: 0%;
+}
+.imgSupport{
+    position: absolute;
+    margin-right: 35%;
+    margin-top: 12%;
+}
+.imgSecurity{
+    position: absolute;
+    margin-right: 60%;
+    margin-top: 12%;
+}
+.title2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 9%;
+}
+.line1{
+    transform: rotate(90deg);
+    width: 380px;
+    margin-right: 46%;
+    margin-top: 0px;
+}
+.line2{
+    width: 780px;
+    margin-right: 35%;
+}
+.asideParent{
+    background: #fff;
+    box-sizing: border-box;
+    border: 1px solid #c3c6cd;
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+}
+.articleText{
+    color: #303030;
+    font-size: 30px;
+    padding-right: 32%;
+    padding-top: 20px;
+}
+.sectionText{
+    color: #747480;
+    font-size: 22px;
+    padding-right: 35%;
+}
+.start{
+    text-decoration: none;
+    background: #ffdb10dc;
+    border-color: #ffdd1a;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: sans-serif;
+    margin-bottom: 37px;
+    margin-right: 550px;
+    font-weight: bold;
+}
+.supportBox{
+    position: relative;
+    background: #fbf6f1;
+    border-radius: 35px;
+    height: 70px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.taxtbox{
+    position: absolute;
+    font-size: 24px;
+    font-family: YekanBalkhHeavy !important;
+    color: #303030;
+    padding-right: 100px;
+}
+span{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.textBox{
+    font-size: 20px;
+    font-weight: bold;
+}
+.number, .number2{
+    color: rgb(0, 0, 196);
+}
+
+
+.supportRequest{
+    position: absolute;
+    text-decoration: none;
+    color: blue;
+    margin-right: 10%;
+}
+.arrow{
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    margin-right: 83.5%;
+    margin-top: 5.6%;
+    z-index: 1;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+aside ul{
+    list-style-type: none;
+}
+.parentAside{
+    position: relative;
+}
+.products{
+    position: absolute;
+    margin-right: 170px;
+    font-size: larger;
+}
+.productsList{
+   position: absolute;
+   margin-top: 60px;
+   margin-right: 132px; 
+   font-size: larger;
+}
+.zarinpal{
+    position: absolute;
+    margin-right: 400px;
+    font-size: larger;
+}
+.zarinpalList{
+    position: absolute;
+    margin-top: 60px;
+    margin-right: 360px; 
+    font-size: larger;
+}
+.relationship{
+    position: absolute;
+    margin-right:620px;
+    font-size: larger;
+}
+.relationshipList{
+    position: absolute;
+    margin-top: 60px;
+    margin-right: 582px; 
+    font-size: larger;
+}
+.sources{
+    position: absolute;
+    margin-right:820px;
+    font-size: larger;
+}
+.sourcesList{
+    position: absolute;
+    margin-top: 60px;
+    margin-right: 782px; 
+    font-size: larger;
+}
+.parentSection{
+    position: relative;
+}
+.social{
+    position: absolute;
+    font-size: 20px;
+    color: #000000;
+    margin-right: 70%;
+}
+.instagram{
+    position: absolute;
+    margin-right: 70%;
+    margin-top: 60px;
+}
+.twitter{
+    position: absolute;
+    margin-right: 72.5%;
+    margin-top: 62px;
+}
+.telegram{
+    position: absolute;
+    margin-right: 75%;
+    margin-top: 60px;
+}
+.linkedin{
+    position: absolute;
+    margin-right: 77.5%;
+    margin-top: 60px;
+}
+.aparat{
+    position: absolute;
+    margin-right: 80%;
+    margin-top: 56px;
+}
+.logozarinpal{
+    position: relative;
+}
+.logo{
+    position: absolute;
+    margin-right: 73%;
+    margin-top: 90px;
+    height: 82px;
+}
+.footP{
+    position: relative;
+}
+.year{
+    margin-right: 48%;
+    margin-top: 250px;
+}
